@@ -1,0 +1,9 @@
+earthengine-api
+geopandas
+rasterio
+shapely
+requests
+osmnx
+pandas
+matplotlib
+jupyterlab
